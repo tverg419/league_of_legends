@@ -1,7 +1,7 @@
 from riotwatcher import LolWatcher, ApiError
 import pandas as pd
 
-api_key = 'RGAPI-48ca403d-78c4-4de2-ad51-a4736c8ef486'
+api_key = 'RGAPI-xxxxx'
 watcher = LolWatcher(api_key)
 my_region = 'na1'
 
